@@ -1,0 +1,9 @@
+- name: "Website Server Root"
+  volId: "vol-00000000000000000"
+  minSnapshots: 5
+- name: "Website Server Data"
+  volId: "vol-00000000000000000"
+  minSnapshots: 5
+- name: "Workhorse Server Root"
+  volId: "vol-00000000000000000"
+  minSnapshots: 5
